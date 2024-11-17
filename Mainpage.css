@@ -1,0 +1,47 @@
+* {
+    height: 25%;
+    margin: 40;
+    font-family: Arial, sans-serif;
+}
+
+.header {
+    background-color: #4A90E2;
+    padding: 40px;
+    text-align: center;
+    color: white;
+}
+
+
+.side-image {
+    color: #000;
+    width: 10%;
+    height: 900%;
+    object-fit: scale-down;
+   
+}
+
+.nav {
+    margin-top: 10px;
+}
+
+.nav a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 1.2em;
+    font-weight: 550;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75vh;
+    overflow: hidden;
+}
+
+
+.content {
+    padding: 20px;
+    text-align: justify;
+}
